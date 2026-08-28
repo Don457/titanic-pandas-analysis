@@ -1,5 +1,11 @@
 # Titanic 数据分析 Notebook
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub license](https://img.shields.io/github/license/Don457/titanic-pandas-analysis)](https://github.com/Don457/titanic-pandas-analysis/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Repo Size](https://img.shields.io/github/repo-size/Don457/titanic-pandas-analysis)](https://github.com/Don457/titanic-pandas-analysis)
+[![Last Commit](https://img.shields.io/github/last-commit/Don457/titanic-pandas-analysis)](https://github.com/Don457/titanic-pandas-analysis/commits/main)
+
 用 pandas 分析 Kaggle 经典 Titanic 数据集，覆盖缺失值、分布、相关性、分组聚合与讲故事的图 5 项分析。
 
 ## 环境
